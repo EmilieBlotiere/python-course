@@ -1,37 +1,38 @@
-# Python Programming for the Humanities
+# Programmation Python pour les Humanités
 
-For this course, we will make use of IPython notebooks. Follow the instructions below to install all the software required for this course. (Many thanks to Folgert Karsdorp for his kind help in providing the installation instructions and launching scripts!)
+Pour ce cours, nous utilisons les notebooks IPython. Suivez les instructions en dessous pour installer l'ensemble des programmes requis pour ce cours. (Merci beaucoup à Folgert Karsdorp pour son aide à fournir des instructions d'installations et des scripts de lancement!)
 
-## Installation instructions
+## Instructions d'installation
 
-First we will install Python, the programming language which we will use throughout this course. We will make use of the free Anaconda distribution, which has all the packages we need built in. Important: we will use Python 3.4 in this course, but first you will have to install Python 2.7, so follow **exactly** the instructions below:
+D'abord, on va installer python, le langage de programmation que nous allons utiliser pendant de cours. Pour cela, nous utiliserons la distribution gratuite Anaconda, qui aura tous les packages nécessaires. Important: nous utiliserons Python3.4 dans ce cours, mais d'abord nous installer la version 2.7 de Python, suivez donc **exactement** ces instructions:
 
-- Go to http://continuum.io/downloads
-- Download the Graphical Installer for Python 2.7 (not for Python 3.4 yet!) which corresponds to your operating system (Mac OSX, Windows or Linux)
-- Run the Graphical installer (if you run into problems, check out: http://docs.continuum.io/anaconda/install.html)
+- Allez sur http://continuum.io/downloads
+- Téléchargez l'installateur graphique pour Python 2.7 (Pas Python 3.4 !) qui correspond à votre système d'exploitation (Mac OSX, Windows ou Linux)
+- Lancer l'installateur graphique (Si vous avez des problèmes, regardez http://docs.continuum.io/anaconda/install.html)
 
-Now we will update our version of Anaconda for Python 3.4 via the command-line. First, open a command line (the scary black screen in which you can type commands for your computer):
-- Under Mac OS X, navigate to /Applications/Utilities and double-click "Terminal"
-- Under Windows, click "Start button Picture" > "All Programs" > "Accessories" > "Command Prompt"
-- Under Linux: press the key combination Ctrl+Alt+T
+Maintenant, nous aurons besoin de mettre à jour Anaconda pour Python3.4 en ligne de commande. D'abord, ouvez le terminal (cet écran noir appeurant dans lequel vous pouvez tapez des commandes pour votre ordinateur):
 
-Issue the following two commands in the command line: enter each command (and hit enter after each command):
+- Sous Mac OS X, naviguez vers /Applications/Utilities et double-click "Terminal"
+- Sous Windows, cliquez "Démarrer" > "Tous les Programmes" > "Accessoires" > "Invité de Commandes"
+- Sous Linux: combinaison de touche Ctrl+Alt+T
 
-On Windows:
+Réalisez ensuite les lignes de commandes dans ce termina: entrez chaque commande (puis entrée après chaque commande):
+
+Sur windows:
 - conda create -n py34 python=3.4 anaconda
 - source py34
 
-Other platforms:
+Autre plate-forme:
 - conda create -n py34 python=3.4 anaconda
 - source activate py34
 
-Download the course folder for this course, by navigating to https://github.com/mikekestemont/python-course and click "Download ZIP". Save and extract this ZIP folder to a convenient location, such as your Desktop. You should now be able to launch the interactive IPython notebooks in your browser. Open the unzipped folder and:
+Téléchargez le dossier pour ce cours, en navigant vers https://github.com/ponteineptique/python-course et cliquez sur "Download ZIP/Téléchargez le Zip". Sauvegarder et extraire le dossier ZIP où cela sera pratique pour vous, comme le bureau. Vous devriez être capable désormais de lancer les notebooks interactifs dans votre navigateur. Ouvez le dossier dézippé puis:
 
-- Under Windows: double-click "start-windows.bat"
-- Under Mac OSX: double-click "start-osx.command"
-- Under Linux: double-click "start-unix.sh"
+- Sous Windows: double-click "start-windows.bat"
+- Sous Mac OSX: double-click "start-osx.command"
+- Sous Linux: double-click "start-unix.sh"
 
-After double-clicking this file once, this should open your browser (preferably Google Chrome or Firefox) on a page http://127.0.0.1:8888/ (or something similar) which says `IP[y]: Notebook'. (Note that this might take a while on slower machines, so don't panic if this page doesn't show up immediately.) If for some reason, the notebook is opened by Internet Explorer, copy the URL and paste that in either Google Chrome or Firefox. If none of this worked, send me an email (firstname.lastname@uantwerp.be), but in the meanwhile you can still use the static versions of each chapter, listed below.
+Après avoir double-cliqué le fichier une fois, votre navigateur devrait s'ouvrir (préférablement sous Chrome ou Firefox) sur la page http://127.0.0.1:8888/ (ou quelque chose de ressemblant) qui dit `IP[y]: Notebook'. (Note that this might take a while on slower machines, so don't panic if this page doesn't show up immediately.) If for some reason, the notebook is opened by Internet Explorer, copy the URL and paste that in either Google Chrome or Firefox. If none of this worked, send me an email (firstname.lastname@uantwerp.be), but in the meanwhile you can still use the static versions of each chapter, listed below.
 
 ## Static Notebooks
 
