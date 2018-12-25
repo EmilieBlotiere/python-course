@@ -7,3 +7,7 @@ CHAPTER I
 Emma Woodhouse , handsome , clever , and rich , with a comfortable home and happy disposition , seemed to unite some of the best blessings of existence ; and had lived nearly twenty-one years in the world with very little to distress or vex her .  
 
 She was the youngest of the two daughters of a most affectionate , indulgent father ; and had , in consequence of her sister ' s marriage , been mistress of his house from a very early period .  Her mother had died too long ago for her to have more than an indistinct remembrance of her caresses ; and her place had been supplied by an excellent woman as governess , who had fallen little short of a mother in affection .  
+
+Emma Woodhouse, belle, intelligente et riche avec une maison confortable et d'agréables dispositions, semblait réunir toutes les dons possibles et imaginables et avait déjà vécu presque vint et un ans dans un monde complaisant sans contrariété ni vexation.
+
+Elle était la plus jeune de 2 filles d'un père on ne peut plus affectueux et indulgent et avait, en raison du mariage de sa soeur, pris très jeune le rôle de maîtresse de maison. Sa mère était morte depuis suffisamment longtemps pour qu'elle n'ait qu'elle n'ait qu'un lointain souvenir de ses caresses et sa place avait été prise par une femme excellente en tant que gouvernante qui n'était pas versé dans l'affection d'une maman.
